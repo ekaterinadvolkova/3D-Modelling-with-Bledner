@@ -4,7 +4,7 @@
 
 *This repository includes the following figures:*<br>
 :bug:[Fridge Magnet](#Fridge_Magnet/fridge magnet final version.png)<br>
-:bug:[Clock](#Clock/watch.png)<br>
+:bug:[Clock](Clock/watch.png)<br>
 :bug:[Swimming Platform](#swimming_platform)<br>
 :bug:[Room](#room)
 
