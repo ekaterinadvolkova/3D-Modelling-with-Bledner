@@ -6,6 +6,6 @@
 :bug:[Fridge Magnet](#Fridge_Magnet/fridge magnet final version.png)<br>
 :bug:[Clock](Clock/watch.png)<br>
 :bug:[Swimming Platform](#swimming_platform)<br>
-:bug:[Room](#room)
+:bug:[Room](Room/rendered.png)
 
 **Press the links above to see the renders :point_up:**
