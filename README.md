@@ -1,4 +1,4 @@
-<h1>3D Modelling with blender>/h1>
+<h1>3D Modelling with blender</h1>
   This repository includes 3D modelled files on the free 3D software Blender
   
   I have included the following figures:
