@@ -7,3 +7,5 @@
 :bug:[Clock](#clock)<br>
 :bug:[Swimming Platform](#swimming_platform)<br>
 :bug:[Room](#room)
+
+**Press the links above to see the renders :point_up:**
