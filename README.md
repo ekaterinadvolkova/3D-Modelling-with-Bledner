@@ -1,6 +1,6 @@
 <h1>3D Modelling with Blender</h1>
 
-<p>[Blender](https://www.blender.org) is a free software for 3D modelling, which can be used for interior design, architechture, game production etc.</p>
+[Blender](https://www.blender.org/features/) <p> is a free software for 3D modelling, which can be used for interior design, architechture, game production etc.</p>
 
 *This repository includes the following figures:*<br>
 :bug:[Fridge Magnet](https://raw.githubusercontent.com/ekaterinadvolkova/3D-Modelling-with-Bledner/main/Fridge_Magnet/fridge%20magnet%20final%20version.png)<br>
